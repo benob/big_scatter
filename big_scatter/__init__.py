@@ -29,7 +29,7 @@ html_labels=False     set to True to interpret labels as HTML
 
 """
 
-__version__ = '0.1.0'
+__version__ = '0.1.2'
 
 import json
 import random

@@ -1,4 +1,4 @@
-# lineplot
+# big_scatter
 
 Simple jupyter widget to draw and explore a large set of 2D datapoints.
 
